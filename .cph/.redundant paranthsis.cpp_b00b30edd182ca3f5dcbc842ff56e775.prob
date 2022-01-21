@@ -1,0 +1,1 @@
+{"name":"Local: redundant paranthsis","url":"g:\\My Drive\\Coding\\C++\\redundant paranthsis.cpp","tests":[{"id":1635000683618,"input":"(a+(b+c))","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\My Drive\\Coding\\C++\\redundant paranthsis.cpp","group":"local","local":true}
